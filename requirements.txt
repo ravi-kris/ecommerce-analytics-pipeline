@@ -1,10 +1,24 @@
+# Core Data Processing
 pandas>=2.0.0
 numpy>=1.24.0
 sqlalchemy>=2.0.0
+
+# Visualization - Static Charts (Reports, PDFs)
 matplotlib>=3.7.0
 seaborn>=0.12.0
+
+# Visualization - Interactive (Dashboards)
 plotly>=5.15.0
+
+# Streamlit - Interactive Web Apps
+streamlit>=1.28.0
+
+# Power BI Export
+openpyxl>=3.1.0
+
+# Templating
+jinja2>=3.1.0
+
+# Utilities
 python-dotenv>=1.0.0
 requests>=2.31.0
-schedule>=1.2.0
-jinja2>=3.1.0
